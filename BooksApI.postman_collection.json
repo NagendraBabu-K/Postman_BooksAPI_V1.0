@@ -36,7 +36,9 @@
               "var randomemail=\"api\"+random+\"@gmail.com\";\r",
               "pm.collectionVariables.set(\"email\", randomemail);\r",
               "\r",
-              "console.log(randomemail);"
+              "console.log(\"Postman\");\r",
+              "console.log(randomemail);\r",
+              ""
             ],
             "type": "text/javascript",
             "packages": {},
